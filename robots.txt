@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ff2341fbde.j01dvs.cn/sitemap.xml
